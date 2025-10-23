@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Sharp Brainer</string>
+    <string name="title_activity_main">Sharp Brainer</string>
+    <string name="package_name">com.SharpBrainer.app</string>
+    <string name="custom_url_scheme">com.SharpBrainer.app</string>
+</resources>
